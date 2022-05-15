@@ -1,0 +1,27 @@
+--html--
+
+line 19 missing <h1></h1>
+line 31 extra </div>
+line 35 </div>
+line 22 indentation
+line 44-6 indentation
+line 50 carrots
+line 55 	extra <br><br>?
+line 87-89 wrong colors
+line 89 text pink
+line 99 and hundred "grow" and "shrink" mixed
+line 96 extra </div>
+line 111 wrong src file link
+
+js file
+12-17 semicolon missing after })
+line 20 and 24 "" missing in click
+
+css file
+none
+
+
+
+
+
+
